@@ -1,0 +1,10 @@
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\bin\Debug\ShopeeEx.exe.config
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\bin\Debug\ShopeeEx.exe
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\bin\Debug\ShopeeEx.pdb
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\obj\Debug\ShopeeEx.csproj.AssemblyReference.cache
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\obj\Debug\ShopeeEx.csproj.CoreCompileInputs.cache
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\obj\Debug\ShopeeEx.exe
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\obj\Debug\ShopeeEx.pdb
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\bin\Debug\Newtonsoft.Json.xml
+C:\Users\D-Computer\Desktop\ShopeeEx\ShopeeEx\obj\Debug\ShopeeEx.csproj.CopyComplete
